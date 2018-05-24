@@ -13,5 +13,4 @@ repositories {
     }
 dependencies {
 	compile 'com.braintreepayments.api:drop-in:3.+'
-	compile 'io.card:android-sdk:5.+'
 }
